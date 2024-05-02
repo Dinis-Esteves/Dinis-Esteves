@@ -2,7 +2,7 @@
 
 My name is Dinis Esteves.
 
-- 🎓 Im currently Studying Computer Science at Instituto Superior Técnico, Lisbon, Portugal
+- 🎓 Studying Computer Science at Instituto Superior Técnico, Lisbon, Portugal
 - ⚡ I’m currently working on my Assembly RISC-V 32 bits project
 - 😄 I love learning new things
 
