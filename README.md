@@ -3,7 +3,7 @@
 My name is Dinis Esteves.
 
 - 🎓 Studying Computer Science at Instituto Superior Técnico, Lisbon, Portugal
-- ⚡ I’m currently working on a GUI for a plugin
+- ⚡ I’m currently working on a OS project
 - 😄 I love learning new things
 
 ### Languages & Software
