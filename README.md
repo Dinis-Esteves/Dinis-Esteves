@@ -5,6 +5,7 @@ My name is Dinis Esteves.
 - 🎓 Studying Computer Science at Instituto Superior Técnico, Lisbon, Portugal
 - ⚡ I’m currently studying cybersecurity
 - 😄 I love learning new things
+- 💼 Software Engineer Intern - NAV Portugal
 
 ### Languages & Software
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
