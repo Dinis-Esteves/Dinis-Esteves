@@ -25,8 +25,18 @@ My name is Dinis Esteves.
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinis-Esteves&theme=nord&count_private=true&hide=Jupyter%20Notebook)
+<table width="100%" align="center">
+<tr>
+<td>
+    <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Dinis-Esteves?cardType=level&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+<img height=240 width=410 align="center" src="https://nirzak-streak-stats.vercel.app/?user=Dinis-Esteves&theme=radical" />
 
+</td>
+</tr>
+</table>
+<br>
 
 
 <!--
